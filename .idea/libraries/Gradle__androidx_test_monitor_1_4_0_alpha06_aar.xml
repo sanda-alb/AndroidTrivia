@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.4.0-alpha06@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55d72040e4e0e8fe31caa373e11ad64a/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/874c43dabad7569114f4ab809188e422/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5250d7cea0ec29aa0a014c50d97c19b/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97d6e5892b4463d53c390b4aeaa8a8b3/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8160aeaac464df28b76101122fc342e4/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8124c1c5e20e7067316f563398e31c81/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8384fcc0822210334d60e6b709fd9a52/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bca66cd32ef3392641f259dbe3d6a53/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138eb0eeb5b17506f92b1eee092e20d3/monitor-1.4.0-alpha06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138eb0eeb5b17506f92b1eee092e20d3/monitor-1.4.0-alpha06/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138eb0eeb5b17506f92b1eee092e20d3/monitor-1.4.0-alpha06/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0-alpha06/9c20b37f85744596f87316943befaeeb23486fa6/monitor-1.4.0-alpha06-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0-alpha06/d50babdc1e64e394cc6aaec39f380089a0056ffa/monitor-1.4.0-alpha06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
